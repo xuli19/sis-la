@@ -1,0 +1,13 @@
+name: sis-la
+title: sis-la
+username:
+account: stephenlee4413
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1392638
+bundleId: 2546415
+url: https://stephenlee4413.shinyapps.io/sis-la/
+when: 1572325248.49255
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

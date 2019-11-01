@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572321151612.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2422118302",
+    "id" : "4E2AD6EB",
+    "lastKnownWriteTime" : 1572321916,
+    "last_content_update" : 1572321916194,
+    "path" : "~/Desktop/sis-la(version 0.2)/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "341,27",
+        "scrollLine" : "323"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
